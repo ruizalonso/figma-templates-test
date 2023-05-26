@@ -1,0 +1,11 @@
+.content-box {
+  clip-path: polygon(0% 0%, 89% 0%, 100% 50%, 89% 100%, 0% 100%);
+}
+.figures {
+  clip-path: polygon(0% 0%, 100% 0, 97.5% 50%, 86% 100%, 0% 100%);
+}
+
+.content-box h1 {
+  font-weight: 700;
+  font-size: 4rem;
+}
